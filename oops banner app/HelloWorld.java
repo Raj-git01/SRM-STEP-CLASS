@@ -7,5 +7,3 @@ class banner{
     {
         banner banner1 = new banner();
         banner1.show();
-    }
-}
