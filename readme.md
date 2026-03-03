@@ -1,1 +1,1 @@
-SRM STEP CLASS
+SRM STEP class
